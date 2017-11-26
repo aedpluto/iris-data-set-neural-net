@@ -1,2 +1,2 @@
-# iris-data-set-neural-net
+# iris-dataset-neural-net
 Used to test backpropagation
