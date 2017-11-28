@@ -2,7 +2,6 @@
 """
 Created on Sat Nov 25 22:57:05 2017
 
-@author: amyed
 """
 
 import numpy as np
@@ -69,8 +68,3 @@ def example():
             print('Virginica')
                 
 example()
-
-## 00:48 26/11/2017 I finally understand backprop ##
-## http://localhost:8888/notebooks/OneDrive/Documents/Documents/Python/AI/Neural%20Networks/Iris/Iris%20flowers.ipynb ##
-## https://www.quora.com/How-do-you-calculate-and-update-weights-in-neural-networks-in-one-go-rather-than-calculating-them-individually ##
-## https://en.wikipedia.org/wiki/Delta_rule ##
